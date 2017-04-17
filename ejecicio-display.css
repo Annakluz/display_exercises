@@ -1,0 +1,23 @@
+.container{
+    display: block;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    text-align: left;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+#lab {
+    background: yellow;
+}
+
+#es {
+    background: fuchsia;
+    border: 2px black solid;
+
+}
+
+#trans {
+    background: yellow;
+}
+
