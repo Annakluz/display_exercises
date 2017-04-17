@@ -1,7 +1,14 @@
+body{
+    text-align: center
+}
 .container{
     display: block;
     padding-bottom: 50px;
     padding-left: 10px;
+    width: 250px;
+    margin-left: auto;
+    margin-top: 10px;;
+    margin-right: auto;
     text-align: left;
     font-family: monospace;
     font-size: 30px;
