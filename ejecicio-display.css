@@ -3,7 +3,7 @@ body{
 }
 .container{
     display: inline-block;
-    padding-bottom: 50px;
+    padding-bottom: 0px;
     padding-left: 10px;
     width: 250px;
     margin-left: auto;
